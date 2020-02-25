@@ -1,0 +1,133 @@
+
+
+body{
+	background:#FEE337;
+}
+
+div#body{
+}
+div#pared{
+	background: #fff;
+	max-width: 650%;
+    height: 100vh;
+     width: 70%;
+  	overflow-y: auto;
+  	float: left;
+}
+div#pared1{
+	background: #fff;
+    height: 100vh;
+    padding: 3em;
+    float: left;
+  }
+div#capsula{
+  background: #FEE337;
+  max-width: 30%;
+    height: 100vh;
+     width: 70%;
+    overflow-y: auto;
+    float: right;
+}
+div#capsula2{
+  background:#fff;
+  max-width: 30%;
+    height: 30vh;
+     width: 70%;
+    overflow-y: auto;
+    float: right;
+}
+.title{
+	color:000;
+}
+.title2{
+  color:000;
+}
+.color{
+	color:#000;	
+}
+#centro {
+    height: 130px;
+    width: 140px;
+    object-fit: cover;
+}
+.text{
+      border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black ;
+}
+.link{
+  color:#06BADE;
+}
+div#imga{
+   width: 70%;
+    overflow-y: auto;
+    float: right;
+}
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+.contenedor9 {
+width: 96%;
+max-width: 960px;
+margin: 0 auto;
+width: 100%;
+height: auto;
+}
+
+.maihn{
+  background:  #06b4e9 ;
+  max-width: 650%;
+    height: 100vh;
+     width: 20%;
+    overflow-y: auto;
+    float: left; 
+}
+.bodys{
+  background: #06b4e9;
+}
+.hy{
+  color: #fff;
+}
+
+.white{
+  background: #fff;
+}
+.Productos{
+  background:  #fff;
+  max-width: 630%;
+    height: 83vh;
+     width: 70%;
+  border-radius: 8px;
+    overflow-y: auto;
+    float: left; 
+}
+.buscador{
+  background: #facf11 ;
+  max-width: 630%;
+    height: 83vh;
+     width: 29.5%;
+  border-radius: 8px;
+    overflow-y: auto;
+    float: left; 
+}
+.sumatorios{
+  background: #fff;
+  max-width: 630%;
+    height: 80vh;
+     width: 50%;
+  border-radius: 8px;
+    overflow-y: auto;
+    float: right; 
+}
+.centrado{
+  background: #fff;
+  max-width: 630%;
+    height: 75vh;
+     width: 95%;
+    overflow-y: auto;
+    float: right; 
+}
+
